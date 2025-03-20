@@ -1,0 +1,5 @@
+sudo ln -s /etc/nginx/sites-available/python_app /etc/nginx/sites-enabled/
+sudo nginx -t  # Check for syntax errors
+sudo systemctl restart nginx  # Restart Nginx
+
+
