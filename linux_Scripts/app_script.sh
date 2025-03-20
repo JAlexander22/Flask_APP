@@ -1,3 +1,5 @@
+#IGNORE FOR NOW
+
 #!/bin/bash
 
 # Update the package list

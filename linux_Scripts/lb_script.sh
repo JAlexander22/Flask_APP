@@ -1,3 +1,5 @@
+#IGNORE FOR NOW
+
 #!/bin/bash
 # Update packages and install NGINX
 sudo apt-get update -y
